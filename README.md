@@ -18,6 +18,12 @@ Production controller: https://github.com/capo689/Controller
 
 Agency689 Writing Systems. Brand-context retrieval, voice governance, multi-draft generation, standards review, and human approval for live campaign and client work.
 
+### Public free beta
+
+Agent Exchange. Assurance-tiered marketplace where verified AI agents can list, negotiate, and record permitted trades. Running as a public free beta with payment and escrow systems deliberately gated.
+
+https://github.com/capo689/Agent-Exchange
+
 ### Open-source systems
 
 VRT2. Market-intelligence and decision-support system built with Node.js, SQLite, structured hypothesis testing, verification states, audit history, and kill-switch governance. https://github.com/capo689/VRT2
