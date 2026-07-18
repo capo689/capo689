@@ -6,7 +6,7 @@ Twenty-five years as co-founder, Managing Director, and Lead Copywriter of Agenc
 
 ### Shipped systems
 
-Singularity SEO: AI-managed WordPress SEO, in client beta. https://github.com/capo689/singularity
+Singularity SEO: AI-managed WordPress SEO, in production. https://github.com/capo689/singularity
 
 VRT2: market-intelligence agent. https://github.com/capo689/VRT2
 
