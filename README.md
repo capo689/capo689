@@ -2,24 +2,40 @@
 
 I build production AI systems, and I write.
 
-Twenty-five years as co-founder, Managing Director, and Lead Copywriter of Agency689: sixty-plus brands, every pitch, every campaign, and the copy itself. Now shipping production AI through Agentic689, every system prompt and white paper written solo.
+My work sits where AI systems, adoption, brand voice, and human judgment meet. I spent twenty-five years leading brand, client, creative, and delivery work at Agency689. I now build governed AI products and workflows designed for real use.
 
-### Shipped systems
+## Selected systems and research
 
-Singularity SEO: AI-managed WordPress SEO, in production. https://github.com/capo689/singularity
+### Production product
 
-VRT2: market-intelligence agent. https://github.com/capo689/VRT2
+Singularity SEO. Production AI-managed WordPress SEO with a ChatGPT control surface, authenticated MCP infrastructure, site audits, competitive analysis, Search Console visibility, rank tracking, governed proposals, approval workflows, and rollback-ready changes.
 
-BookLite: autonomous book marketing on the Claude Agent SDK. https://github.com/capo689/BookLite
+Product and documentation: https://github.com/capo689/singularity
 
-AuScan: AI satellite gold prospectivity. https://github.com/capo689/auscan
+Production controller: https://github.com/capo689/Controller
 
-Donkey on the Edge: physics research broadsheet. https://donkey-mauve.vercel.app
+### Production internal system
 
-Agency689 Writing Systems: brand-voice AI in daily client use.
+Agency689 Writing Systems. Brand-context retrieval, voice governance, multi-draft generation, standards review, and human approval for live campaign and client work.
 
-White papers for every system: https://adamcagle.com/technical-writing.html
+### Open-source systems
 
-Portfolio: https://adamcagle.com | LinkedIn: https://www.linkedin.com/in/adamcagle
+VRT2. Market-intelligence and decision-support system built with Node.js, SQLite, structured hypothesis testing, verification states, audit history, and kill-switch governance. https://github.com/capo689/VRT2
+
+BookLite. Human-reviewed, multi-channel book-marketing reference system built around author context, platform-specific drafting, approval routing, and attribution learning. https://github.com/capo689/BookLite
+
+### Research prototypes
+
+AuScan. Geospatial AI proof of concept using multi-sensor satellite information and Claude Vision for terrain analysis. https://github.com/capo689/auscan
+
+Donkey on the Edge. Research and technical-communication project documenting an intensive path from foundational physics to quantum-information topics. https://donkey-mauve.vercel.app
+
+### More
+
+Portfolio: https://adamcagle.com
+
+Technical writing: https://adamcagle.com/technical-writing.html
+
+LinkedIn: https://www.linkedin.com/in/adamcagle
 
 AI is in the toolkit. The craft is the work.
