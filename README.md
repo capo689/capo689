@@ -36,6 +36,10 @@ AuScan. Geospatial AI proof of concept using multi-sensor satellite information 
 
 Donkey on the Edge. Research and technical-communication project documenting an intensive path from foundational physics to quantum-information topics. https://donkey-mauve.vercel.app
 
+### Training
+
+Completed eight Anthropic courses across Claude, Claude Code, API development, platform fundamentals, and applied AI fluency. The certificates of completion support the Claude and Anthropic systems shown here; the shipped work remains the proof. Full credential record: https://www.linkedin.com/in/adamcagle/details/certifications/
+
 ### More
 
 Portfolio: https://adamcagle.com
