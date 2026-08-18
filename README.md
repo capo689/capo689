@@ -36,6 +36,18 @@ AuScan. Geospatial AI proof of concept using multi-sensor satellite information 
 
 Donkey on the Edge. Research and technical-communication project documenting an intensive path from foundational physics to quantum-information topics. https://donkey-mauve.vercel.app
 
+## Stack and capabilities
+
+Models and orchestration: Claude, GPT, and Gemini families, Claude Agent SDK, LangGraph, MCP and FastMCP, and OpenRouter for multi-model orchestration, task-based model routing, model selection, and LLM benchmarking.
+
+Reliability and structure: structured outputs with JSON Schema and deterministic validation; synthetic, fixture, and live-API testing; independent verification; fail-closed workflows; bounded retries; and model-diverse repair.
+
+Retrieval and multimodal: RAG, embeddings, semantic retrieval, vector databases (Qdrant), OCR, and multimodal extraction.
+
+Traceability and operations: evidence traceability, stable evidence IDs, SHA-256 provenance, workflow auditing, AI cost tracking, risk assessment, production-readiness planning, opportunity prioritization, and shadow-mode pilots.
+
+Engineering and delivery: Python, FastAPI, TypeScript, Node.js, React, Astro, REST APIs, OAuth 2.0, Supabase, PostgreSQL, Cloudflare, Vercel, GitHub Actions, n8n Cloud, Zapier, and interactive workflow visualization with React Flow / XYFlow and ELK.js.
+
 ### Training
 
 Completed eight Anthropic courses across Claude, Claude Code, API development, platform fundamentals, and applied AI fluency. The certificates of completion support the Claude and Anthropic systems shown here; the shipped work remains the proof. Full credential record: https://www.linkedin.com/in/adamcagle/details/certifications/
